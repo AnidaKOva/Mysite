@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+font-family: 'Roboto Mono', monospace;
+  color:#e6fff2;
+  font-size: 1rem;
+
+
+}
+
+h1 {
+    font-size: 5rem;
+  margin: 50 auto 0 auto;
+  font-family: 'Parisienne', cursive;
+  color: #f0f5f5;
+
+}
+
+h2 {
+  font-family: 'Roboto Mono', monospace;
+font-size: 1.5rem;
+  color:#f0f5f5;padding-bottom: 2px;
+  line-height: 2;
+}
+
+h3 {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 1.25rem;
+  color: #003333;
+font-stretch:extra-expanded;
+
+}
+p {line-height: 2;}
+
+hr { border:  dotted 6px;
+  border-bottom: none;
+   border-color: white;
+   width:4%;
+margin:30px auto;}
+
+.topcontainer {
+  background-color: #1eb2a6;
+padding-top: 30px;
+  line-height: 2;
+}
+
+.age {
+  color:#003333;
+}
+
+.middle-container {
+
+  background-color: #1eb2a6
+}
+
+.bottom-container { padding-top: 50px;
+
+clear:both;
+background-color:  #99ffff;}
+
+a {font-family: 'Roboto Mono', monospace;
+margin: 10px 20px;
+text-decoration: none;}
+a:hover {color:blue;}
+
+.grammer {
+  color: #003333;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 100px;
+  bottom: 300px;
+}
+
+.topcloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.Anida {
+  border-radius: 50%;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  size:200%;
+}
+
+.teacher {height: 25%;
+width:25%;
+  float: left;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.giphy {float:right;
+margin-left: 30px;}
+
+
+
+.subtitle {
+  font-weight: normal;
+}
+.skill-row {width: 70%; margin: auto;
+text-align: left;
+
+}
+
+
+.contact-me {width:40%;
+margin:auto;
+clear:right;
+}
+
+.footer-link {color:black; }
+
+.road {float:right;
+margin:auto auto 50px 50px;}
+
+.btn {
+	box-shadow: 0px 17px 10px -7px #276873;
+	background:linear-gradient(to bottom, #086080 5%, #1eb2a6 100%);
+	background-color:#086080;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:14px 35px;
+	text-decoration:none;
+	text-shadow:0px -4px 0px #3d768a;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #1eb2a6 5%, #086080 100%);
+	background-color:#1eb2a6;
+}
+.btn {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+  color: #ffffff; font-size: 0.75rem;
+}
